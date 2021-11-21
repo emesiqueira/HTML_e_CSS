@@ -1,0 +1,53 @@
+body {
+  background-color: WhiteSmoke;
+}
+
+div {
+  background-color: MediumTurquoise;
+  margin: 1%;
+}
+
+.caixa1 {
+  width: 98%;
+  height: 100px;
+  display: inline-block;
+}
+
+.caixa2 {
+  width: 98%;
+  height: 300px;
+  display: inline-block;
+}
+
+
+.coluna1 {
+  width: 48%;
+  height: 300px;
+  display: inline-block;
+}
+
+.coluna2 {
+  width: 48%;
+  height: 300px;
+  float: right;
+  display: inline-block;
+}
+.caixa3 {
+  width: 98%;
+  height: 300px;
+
+}
+
+.coluna3 {
+  width: 48%;
+  height: 300px;
+  float: left;
+  display: inline-block;
+}
+
+.coluna4 {
+  width: 48%;
+  height: 300px;
+  float: right;
+  display: inline-block;
+}
