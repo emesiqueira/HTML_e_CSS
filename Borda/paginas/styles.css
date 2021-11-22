@@ -1,0 +1,34 @@
+body{
+    background-image: url(../midia/abstrato.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+div{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    float: left;
+    margin: 5px;
+    padding: 10px;
+}
+
+.border1{
+    border-radius: 5px;
+}
+
+.border2{
+    border-radius: 20px 50px;
+}
+
+.border3{
+    border-radius: 5px 10px 15px 20px;
+}
+
+.border4{
+    border-radius: 50%;
+}
+
+.border5{
+    box-shadow: 5px 5px 20px black;
+}

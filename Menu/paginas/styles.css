@@ -1,0 +1,11 @@
+ul{
+    list-style-position: outside;
+    padding:left;
+    list-style-type: none;
+    font-family: 'Poppins', sans-serif;
+}
+
+li{
+    display: inline;
+}
+
