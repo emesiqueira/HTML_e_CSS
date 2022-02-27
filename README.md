@@ -1,7 +1,7 @@
 # Elementos em HTML e CSS
-Este estudo constistiu em criar vários elementes responsivos utilizando HTML, CSS e Javascript. 
--
--
--
--
--
+### Este estudo constistiu na criação de vários elementos responsivos utilizando técninas em HTML e CSS
+
+- Blocos responsivos
+- Menus
+- Listas
+
